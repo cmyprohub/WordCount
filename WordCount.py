@@ -27,3 +27,4 @@ with open('/Users/UserName/Desktop/Linkedin.rtf','r',encoding='utf-8', errors = 
         sheet_test.write(i,2,(result[1]/word_total))
     
 book.save('/Users/UserName/Desktop/WC/word_count.xls')
+#End
